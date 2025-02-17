@@ -40,7 +40,7 @@ public class question2 {
 
         double maxDistance = gallons * mpg;
 
-        // Display results
+
         System.out.printf("The cost to drive 100 miles: $%.2f\n", costPer100Miles);
         System.out.printf("The car can go about %.2f miles with a full tank.\n", maxDistance);
     }
